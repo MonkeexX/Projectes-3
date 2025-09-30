@@ -18,6 +18,18 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "MeshTool2",
+			"Enabled": false
+		},
+		{
+			"Name": "MeshTool",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7289f8ad4b6c43b289affc9870db344a"
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../../Downloads/MeshTool"
 	]
 }

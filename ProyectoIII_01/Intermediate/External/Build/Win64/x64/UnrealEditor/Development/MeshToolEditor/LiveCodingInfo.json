@@ -1,0 +1,86 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MeshToolEditor.1.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"IMTTool.gen.cpp.obj",
+			"MeshModifier.gen.cpp.obj",
+			"MeshToolBlueprintLibrary.gen.cpp.obj",
+			"MeshToolEditor.init.gen.cpp.obj",
+			"MeshToolEditorAssetContainer.gen.cpp.obj",
+			"MeshToolEditorOp.gen.cpp.obj",
+			"MeshToolProxyObject.gen.cpp.obj",
+			"MeshToolSelection.gen.cpp.obj",
+			"MeshToolSettings.gen.cpp.obj",
+			"MeshToolUISetting.gen.cpp.obj"
+		],
+		"Module.MeshToolEditor.2.cpp.obj": [
+			"MTBooleanTool.gen.cpp.obj",
+			"MTDrawPolygonTool.gen.cpp.obj",
+			"MTMeshCleanUpTool.gen.cpp.obj",
+			"MTOpenSubdivTool.gen.cpp.obj",
+			"MTSplineLoftTool.gen.cpp.obj",
+			"TrimSheetEditorSettings.gen.cpp.obj",
+			"TrimSheetFactory.gen.cpp.obj",
+			"TrimSheetMapping.gen.cpp.obj",
+			"TrimSheetThumbnailRenderer.gen.cpp.obj",
+			"VertexSnapping.cpp.obj",
+			"Documentation.cpp.obj",
+			"DocumentationPage.cpp.obj",
+			"DocumentationRedirectRegistry.cpp.obj",
+			"DocumentationStyle.cpp.obj",
+			"SDocumentationAnchor.cpp.obj",
+			"SExtDocumentationToolTip.cpp.obj",
+			"UDNParser.cpp.obj",
+			"MeshModeToolkit.cpp.obj",
+			"MeshToolEditCommands.cpp.obj",
+			"MeshToolEditorOp.cpp.obj",
+			"MeshToolEdMode.cpp.obj"
+		],
+		"Module.MeshToolEditor.3.cpp.obj": [
+			"MeshToolProxyObject.cpp.obj",
+			"MeshToolSelection.cpp.obj",
+			"MeshToolSettings.cpp.obj",
+			"MeshToolUISetting.cpp.obj",
+			"MeshToolUISettingCustomization.cpp.obj"
+		],
+		"Module.MeshToolEditor.4.cpp.obj": [
+			"MeshTool.cpp.obj",
+			"MeshToolBlueprintLibrary.cpp.obj",
+			"MeshModifier.cpp.obj"
+		],
+		"Module.MeshToolEditor.5.cpp.obj": [
+			"MeshToolStyle.cpp.obj",
+			"IMTTool.cpp.obj",
+			"MTBooleanTool.cpp.obj",
+			"MTDrawPolygonTool.cpp.obj",
+			"MTMeshCleanUpTool.cpp.obj",
+			"MTOpenSubdivTool.cpp.obj",
+			"MTSplineLoftTool.cpp.obj",
+			"ContentBrowserExtensions.cpp.obj",
+			"Generic2DEditorViewport.cpp.obj",
+			"Generic2DEditorViewportClient.cpp.obj",
+			"STrimSheetEditorViewportToolbar.cpp.obj",
+			"STrimSheetList.cpp.obj",
+			"TrimSheetAssetTypeActions.cpp.obj",
+			"TrimSheetDetailsCustomization.cpp.obj",
+			"TrimSheetEditor.cpp.obj",
+			"TrimSheetEditorCommands.cpp.obj",
+			"TrimSheetEditorSettings.cpp.obj",
+			"TrimSheetEditorViewportClient.cpp.obj",
+			"TrimSheetFactory.cpp.obj",
+			"TrimSheetGeometryEditCommands.cpp.obj",
+			"TrimSheetGeometryEditing.cpp.obj",
+			"TrimSheetGeometryEditMode.cpp.obj",
+			"TrimSheetThumbnailRenderer.cpp.obj",
+			"MeshToolToolBar.cpp.obj",
+			"SBooleanToolWindow.cpp.obj",
+			"SDrawPolygonToolWindow.cpp.obj",
+			"SMeshCleanUpToolWindow.cpp.obj",
+			"SMeshToolEditor.cpp.obj",
+			"SMeshToolWidgets.cpp.obj",
+			"SOpenSubdivWindow.cpp.obj",
+			"SSplineLoftWindow.cpp.obj"
+		]
+	}
+}

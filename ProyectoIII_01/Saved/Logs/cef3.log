@@ -1,3 +1,2 @@
-[0929/200803.845:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[0929/200807.648:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0929/201004.175:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0929/213334.761:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[0929/213535.012:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
