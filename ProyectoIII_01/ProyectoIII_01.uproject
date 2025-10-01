@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "{DF92E858-4C7D-DF27-D455-F0BBF1DE086D}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -22,11 +22,6 @@
 		{
 			"Name": "MeshTool2",
 			"Enabled": false
-		},
-		{
-			"Name": "MeshTool",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7289f8ad4b6c43b289affc9870db344a"
 		}
 	],
 	"AdditionalPluginDirectories": [
