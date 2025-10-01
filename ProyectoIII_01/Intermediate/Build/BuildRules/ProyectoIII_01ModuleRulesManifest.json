@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\User\\Downloads\\MeshTool\\MeshTool\\Source\\MeshToolCommon\\MeshToolCommon.Build.cs",
+		"C:\\Users\\User\\Downloads\\MeshTool\\MeshTool\\Source\\MeshToolEditor\\MeshToolEditor.Build.cs",
+		"C:\\Users\\User\\Downloads\\MeshTool\\MeshTool\\Source\\MeshToolRuntime\\MeshToolRuntime.Build.cs",
+		"C:\\Users\\User\\Downloads\\MeshTool\\MeshTool\\Source\\ThirdParty\\Clip2Tri\\Clip2Tri.Build.cs",
+		"C:\\Users\\User\\Downloads\\MeshTool\\MeshTool\\Source\\ThirdParty\\Eigen3ForMeshTool\\Eigen3ForMeshTool.Build.cs",
+		"C:\\Users\\User\\Downloads\\MeshTool\\MeshTool\\Source\\ThirdParty\\OpenSubdiv3\\OpenSubdiv3.Build.cs",
+		"C:\\Users\\User\\Downloads\\MeshTool\\MeshTool\\Source\\ThirdParty\\libigl\\libigl.Build.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

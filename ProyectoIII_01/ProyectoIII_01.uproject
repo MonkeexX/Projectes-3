@@ -18,6 +18,13 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "MeshTool2",
+			"Enabled": false
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../../Downloads/MeshTool"
 	]
 }

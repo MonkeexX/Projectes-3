@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MeshToolRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\GitHub\Projectes-3\ProyectoIII_01\Intermediate\External\Build\Win64\x64\UnrealEditor\Development\MeshToolRuntime\Module.MeshToolRuntime.1.cpp.obj"
+"C:\Users\User\Documents\GitHub\Projectes-3\ProyectoIII_01\Intermediate\External\Build\Win64\x64\UnrealEditor\Development\MeshToolRuntime\Module.MeshToolRuntime.2.cpp.obj"
+"C:\Users\User\Documents\GitHub\Projectes-3\ProyectoIII_01\Intermediate\External\Build\Win64\x64\UnrealEditor\Development\MeshToolRuntime\Module.MeshToolRuntime.3.cpp.obj"
+"C:\Users\User\Documents\GitHub\Projectes-3\ProyectoIII_01\Intermediate\External\Build\Win64\x64\UnrealEditor\Development\MeshToolRuntime\Module.MeshToolRuntime.4.cpp.obj"
+"C:\Users\User\Documents\GitHub\Projectes-3\ProyectoIII_01\Intermediate\External\Build\Win64\x64\UnrealEditor\Development\MeshToolRuntime\Module.MeshToolRuntime.5.cpp.obj"
+"C:\Users\User\Documents\GitHub\Projectes-3\ProyectoIII_01\Intermediate\External\Build\Win64\x64\UnrealEditor\Development\MeshToolRuntime\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\GitHub\Projectes-3\ProyectoIII_01\Intermediate\External\Build\Win64\x64\UnrealEditor\Development\MeshToolRuntime\UnrealEditor-MeshToolRuntime.lib"
