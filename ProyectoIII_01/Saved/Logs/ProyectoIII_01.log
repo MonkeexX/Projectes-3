@@ -24698,3 +24698,19 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.10.02-10.09.05:403][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
 [2025.10.02-10.09.05:409][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
 [2025.10.02-10.09.05:470][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.10.02-10.10.45:567][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-10.10.45:634][ 50]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/Blueprints/HoveringCarTest] ([2] browsable assets)...
+[2025.10.02-10.10.45:702][ 50]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/Blueprints/HoveringCarTest.HoveringCarTest]
+[2025.10.02-10.10.45:702][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/HoveringCarTest]
+[2025.10.02-10.10.45:753][ 50]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/Blueprints/HoveringCarTest
+[2025.10.02-10.10.45:754][ 50]LogSavePackage: Moving '../../../../../../Users/gerar/OneDrive/Desktop/Projecte/Projectes 3/ProyectoIII_01/Saved/HoveringCarTestAB4FCFAE4C3B31159057B6A0A8468C03.tmp' to '../../../../../../Users/gerar/OneDrive/Desktop/Projecte/Projectes 3/ProyectoIII_01/Content/VehicleTemplate/Blueprints/HoveringCarTest.uasset'
+[2025.10.02-10.10.45:773][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.002 ms
+[2025.10.02-10.10.45:864][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-10.10.45:864][ 50]LogContentValidation: Enabled validators:
+[2025.10.02-10.10.45:864][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-10.10.45:864][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-10.10.45:864][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-10.10.45:864][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-10.10.45:864][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-10.10.45:864][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-10.10.45:864][ 50]AssetCheck: /Game/VehicleTemplate/Blueprints/HoveringCarTest Validating asset
