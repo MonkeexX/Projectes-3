@@ -1,4 +1,1 @@
-[1003/211036.055:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[1003/211041.775:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1003/211236.501:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1003/211628.557:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 67
+[1003/220118.155:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
