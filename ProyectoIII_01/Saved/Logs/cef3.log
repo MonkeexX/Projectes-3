@@ -1,2 +1,83 @@
-[0929/213334.761:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[0929/213535.012:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1003/214012.700:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214012.836:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1003/214019.555:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214019.663:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1003/214020.163:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1003/214020.168:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1003/214020.168:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1003/214020.315:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
+[1003/214022.674:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(91,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(69,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214022.733:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1003/214022.911:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(127,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(105,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(127,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(105,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(127,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(105,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214023.008:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(178,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(156,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(178,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(156,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214023.033:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(927,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(905,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(927,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(905,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(927,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(905,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214023.124:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(939,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(917,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(939,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(917,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(939,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(917,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214023.501:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(927,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(905,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(927,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(905,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(927,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(905,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214023.764:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(939,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(917,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(939,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(917,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(939,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(917,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1003/214045.574:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
