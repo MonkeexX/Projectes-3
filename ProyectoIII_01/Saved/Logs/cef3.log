@@ -1,2 +1,4 @@
-[0929/213334.761:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[0929/213535.012:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1006/235256.246:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[1006/235256.878:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1006/235257.159:WARNING:storage_block-inl.h(146)] Failed data load.
+[1006/235456.528:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
