@@ -1,4 +1,4 @@
-﻿Log file open, 10/15/25 19:56:39
+Log file open, 10/15/25 19:56:39
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -134,7 +134,6 @@ LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
 LogPluginManager: Mounting Engine plugin ChaosUserDataPT
 LogPluginManager: Mounting Engine plugin CharacterAI
 LogPluginManager: Mounting Engine plugin Dataflow
-LogPluginManager: Mounting Engine plugin EditorDataStorage
 LogPluginManager: Mounting Engine plugin EditorPerformance
 LogPluginManager: Mounting Engine plugin EditorTelemetry
 LogPluginManager: Mounting Engine plugin Fracture
@@ -142,12 +141,12 @@ LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
 LogPluginManager: Mounting Engine plugin GeometryFlow
 LogPluginManager: Mounting Engine plugin FullBodyIK
 LogPluginManager: Mounting Engine plugin LowLevelNetTrace
-LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
 LogPluginManager: Mounting Engine plugin NFORDenoise
 LogPluginManager: Mounting Engine plugin LocalizableMessage
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin RawInput
 LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ToolPresets
 LogPluginManager: Mounting Engine plugin StudioTelemetry
 LogPluginManager: Mounting Engine plugin ToolPresets
 LogPluginManager: Mounting Engine plugin AndroidMedia

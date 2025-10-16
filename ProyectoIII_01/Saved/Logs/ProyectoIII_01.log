@@ -1,4 +1,4 @@
-﻿Log file open, 10/16/25 14:42:09
+Log file open, 10/16/25 14:42:09
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -20,13 +20,13 @@ LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.5-CL-40574608"
 LogCsvProfiler: Display: Metadata set : engineversion="5.5.4-40574608+++UE5+Release-5.5"
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.6584] "
-LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-14650HX"
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13700H"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
-LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\gerar\OneDrive\Desktop\Projecte\Projectes 3\ProyectoIII_01\ProyectoIII_01.uproject"""
-LogCsvProfiler: Display: Metadata set : loginid="b4cf4d4741b39b8fb786c397368bd052"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\PC\Desktop\Projectes-3\ProyectoIII_01\ProyectoIII_01.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="3e90cd5d41a518ad1e05d88bd5a68256"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogStats: Stats thread started at 1.242912
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
@@ -38,6 +38,8 @@ LogInit: Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [../../../../../../Users/gerar/OneDrive/Desktop/Projecte/Projectes 3/ProyectoIII_01/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogAudio: Display: Pre-Initializing Audio Device Manager...
 LogAudio: Display: AudioInfo: 'OPUS' Registered
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
 LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
 LogAudio: Display: AudioInfo: 'OGG' Registered
 LogAudio: Display: AudioInfo: 'ADPCM' Registered
@@ -60,7 +62,7 @@ LogConfig: Display: Loading LinuxArm64 ini files took 0.68 seconds
 LogConfig: Display: Loading Linux ini files took 0.69 seconds
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Looking for enabled plugins target receipt
-LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/gerar/OneDrive/Desktop/Projecte/Projectes 3/ProyectoIII_01/Binaries/Win64/*.target
+LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/PC/Desktop/Projectes-3/ProyectoIII_01/Binaries/Win64/*.target
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin Bridge
@@ -110,20 +112,24 @@ LogPluginManager: Mounting Engine plugin EOSShared
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin ColorGrading
 LogPluginManager: Mounting Engine plugin ChangelistReview
 LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
 LogPluginManager: Mounting Engine plugin CryptoKeys
 LogPluginManager: Mounting Engine plugin DataValidation
 LogPluginManager: Mounting Engine plugin ColorGrading
 LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
 LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
 LogPluginManager: Mounting Engine plugin GeometryMode
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
-LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
-LogPluginManager: Mounting Engine plugin MaterialAnalyzer
 LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
 LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
@@ -220,6 +226,10 @@ LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GooglePAD
 LogPluginManager: Mounting Engine plugin AppleMoviePlayer
 LogPluginManager: Mounting Engine plugin AssetTags
@@ -237,6 +247,8 @@ LogPluginManager: Mounting Engine plugin RigVM
 LogPluginManager: Mounting Engine plugin ResonanceAudio
 LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin StateTree
 LogPluginManager: Mounting Engine plugin Metasound
 LogPluginManager: Mounting Engine plugin Synthesis
@@ -302,12 +314,12 @@ LogStudioTelemetry: Started StudioTelemetry Session
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.5-CL-40574608
 LogInit: Platform=WindowsEditor
-LogInit: MachineId=b4cf4d4741b39b8fb786c397368bd052
+LogInit: MachineId=3e90cd5d41a518ad1e05d88bd5a68256
 LogInit: DeviceId=
 LogInit: Engine Version: 5.5.4-40574608+++UE5+Release-5.5
 LogInit: Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
 LogInit: Net CL: 37670630
-LogInit: OS: Windows 11 (24H2) [10.0.26100.6584] (), CPU: Intel(R) Core(TM) i7-14650HX, GPU: Intel(R) UHD Graphics
+LogInit: OS: Windows 11 (24H2) [10.0.26100.6584] (), CPU: 13th Gen Intel(R) Core(TM) i7-13700H, GPU: Intel(R) Iris(R) Xe Graphics
 LogInit: Compiled (64-bit): Mar  7 2025 14:49:53
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
