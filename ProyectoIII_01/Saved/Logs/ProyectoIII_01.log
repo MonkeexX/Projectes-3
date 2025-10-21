@@ -1,4 +1,4 @@
-﻿Log file open, 10/20/25 23:05:33
+Log file open, 10/20/25 23:05:33
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -19,14 +19,14 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.5-CL-40574608"
 LogCsvProfiler: Display: Metadata set : engineversion="5.5.4-40574608+++UE5+Release-5.5"
-LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.6584] "
-LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-14650HX"
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.6899] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i9-12900KS"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
-LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\gerar\OneDrive\Desktop\Projecte\Projectes 3\ProyectoIII_01\ProyectoIII_01.uproject"""
-LogCsvProfiler: Display: Metadata set : loginid="b4cf4d4741b39b8fb786c397368bd052"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\User\Documents\GitHub\Projectes-3\ProyectoIII_01\ProyectoIII_01.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="26489c164b09a91f328af189411079f4"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogStats: Stats thread started at 1.405919
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
@@ -60,15 +60,18 @@ LogConfig: Display: Loading LinuxArm64 ini files took 0.58 seconds
 LogConfig: Display: Loading Linux ini files took 0.60 seconds
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Looking for enabled plugins target receipt
-LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/gerar/OneDrive/Desktop/Projecte/Projectes 3/ProyectoIII_01/Binaries/Win64/*.target
+LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/User/Documents/GitHub/Projectes-3/ProyectoIII_01/Binaries/Win64/*.target
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+LogPluginManager: Warning: Plugin 'MeshTool' requires engine version '5.4.0' and may not be compatible with the current current engine version '5.5.0-37670630+++UE5+Release-5.5'
+Message dialog closed, result: No, title: 'MeshTool' is Incompatible, text: The 'MeshTool' plugin was designed for build 5.4.0. Attempt to load it anyway?
+LogPluginManager: Display: Skipping load of 'MeshTool'.
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin ChaosVD
 LogPluginManager: Mounting Engine plugin CmdLinkServer
 LogPluginManager: Mounting Engine plugin EnhancedInput
-LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin Fab
+LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin RenderGraphInsights
 LogPluginManager: Mounting Engine plugin TraceUtilities
@@ -225,7 +228,6 @@ LogPluginManager: Mounting Engine plugin Dataflow
 LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
 LogPluginManager: Mounting Engine plugin LocalizableMessage
 LogPluginManager: Mounting Engine plugin LowLevelNetTrace
-LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
 LogPluginManager: Mounting Engine plugin NFORDenoise
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin PlatformCrypto
@@ -258,6 +260,7 @@ LogPluginManager: Mounting Engine plugin SkeletalMeshModelingTools
 LogPluginManager: Mounting Engine plugin XInputDevice
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin MetaHumanSDK
 LogPluginManager: Mounting Engine plugin BaseCharacterFXEditor
@@ -302,12 +305,12 @@ LogStudioTelemetry: Started StudioTelemetry Session
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.5-CL-40574608
 LogInit: Platform=WindowsEditor
-LogInit: MachineId=b4cf4d4741b39b8fb786c397368bd052
+LogInit: MachineId=26489c164b09a91f328af189411079f4
 LogInit: DeviceId=
 LogInit: Engine Version: 5.5.4-40574608+++UE5+Release-5.5
 LogInit: Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
 LogInit: Net CL: 37670630
-LogInit: OS: Windows 11 (24H2) [10.0.26100.6584] (), CPU: Intel(R) Core(TM) i7-14650HX, GPU: Intel(R) UHD Graphics
+LogInit: OS: Windows 11 (24H2) [10.0.26100.6899] (), CPU: 12th Gen Intel(R) Core(TM) i9-12900KS, GPU: Intel(R) UHD Graphics 770
 LogInit: Compiled (64-bit): Mar  7 2025 14:49:53
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
