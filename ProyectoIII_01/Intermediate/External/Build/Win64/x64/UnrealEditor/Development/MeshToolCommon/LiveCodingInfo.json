@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.MeshToolCommon.cpp.obj": [
-			"PerModuleInline.gen.cpp.obj",
-			"MeshToolCommon.cpp.obj"
-		]
-	}
-}
