@@ -22,6 +22,10 @@
 		{
 			"Name": "MeshTool2",
 			"Enabled": false
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	],
 	"AdditionalPluginDirectories": [
