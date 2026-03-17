@@ -18,6 +18,17 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "MeshTool2",
+			"Enabled": false
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../../Downloads/MeshTool"
 	]
 }
