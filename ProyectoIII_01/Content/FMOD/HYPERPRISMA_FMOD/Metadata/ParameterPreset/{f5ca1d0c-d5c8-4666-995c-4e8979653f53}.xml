@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{f5ca1d0c-d5c8-4666-995c-4e8979653f53}">
+		<property name="name">
+			<value>LEVITACIÓN 1</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2e165a9b-6365-4151-b51d-76e3d25da30a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b38cf3d4-861e-4ea4-b655-0fb2ce6c6dc2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b38cf3d4-861e-4ea4-b655-0fb2ce6c6dc2}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

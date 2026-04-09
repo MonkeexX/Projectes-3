@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{c7c22e3f-c027-4d74-96aa-bd3ec9e8211d}">
+		<property name="name">
+			<value>CHOQUE CON CORREDOR 3</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2e165a9b-6365-4151-b51d-76e3d25da30a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{817e0962-43ae-46cc-817a-5bf6f3e1c47c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{817e0962-43ae-46cc-817a-5bf6f3e1c47c}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
