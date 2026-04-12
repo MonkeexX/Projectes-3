@@ -1,9 +1,0 @@
-{8a9b64bd-3f8e-4bf6-b9ee-72493bdae30d} bank:/Master
-{12864469-4ef5-07b4-3fa7-f8b7ca29e595} bank:/Master.strings
-{ba5a3fac-6ea3-4c4a-b1c7-2ac0ea416937} bus:/
-{59fd51e0-9c49-438c-b2cd-b8488ed16ba7} bus:/Reverb
-{cc2fd40c-b91b-4317-8ec1-6a1710e9ebf3} parameter:/ACELERACION 1
-{89a4cbb3-fbf5-4b38-a0b4-b82dd3ee5016} parameter:/ACELERACION 2
-{c7b7b5e2-5aa8-440f-82b2-fe0f4a462a25} parameter:/CHOQUE CON CORREDOR 1
-{99b91ae0-918a-46f0-a459-a16f79391be3} parameter:/CHOQUE CON CORREDOR 2
-{817e0962-43ae-46cc-817a-5bf6f3e1c47c} parameter:/CHOQUE CON CORREDOR 3
