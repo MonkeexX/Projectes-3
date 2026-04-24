@@ -5,7 +5,7 @@
 			<value>CHOQUE</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{90bb064f-caba-4312-8ea2-fd12f48324dc}</destination>
@@ -96,6 +96,7 @@
 	<object class="MixerBusEffectChain" id="{49ad18c7-4a79-4012-8a83-05f94d3b5d4c}">
 		<relationship name="effects">
 			<destination>{a35c513e-412a-44e2-a702-d3ea70343175}</destination>
+			<destination>{93698b76-5f33-4ed6-bebc-a0c5cc9daa40}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6158d7d8-65a5-49b7-863f-e120c422f8db}" />
@@ -115,6 +116,7 @@
 	</object>
 	<object class="MixerBusFader" id="{fa7f4da7-54bf-48a5-9000-6d8d780442c6}" />
 	<object class="MixerBusFader" id="{a35c513e-412a-44e2-a702-d3ea70343175}" />
+	<object class="SpatialiserEffect" id="{93698b76-5f33-4ed6-bebc-a0c5cc9daa40}" />
 	<object class="ADSRModulator" id="{70339f72-5537-4956-aad6-79473a45c0da}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>pitch</value>
