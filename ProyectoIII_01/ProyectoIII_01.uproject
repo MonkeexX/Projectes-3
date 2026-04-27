@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "{A33CE577-4CB6-21E3-9769-CDAF719827AA}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -30,11 +30,6 @@
 		{
 			"Name": "VictoryBPLibrary",
 			"Enabled": false
-		},
-		{
-			"Name": "UINavigation",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b9ee9669c98146cd8433a62ea7f23699"
 		}
 	],
 	"AdditionalPluginDirectories": [
