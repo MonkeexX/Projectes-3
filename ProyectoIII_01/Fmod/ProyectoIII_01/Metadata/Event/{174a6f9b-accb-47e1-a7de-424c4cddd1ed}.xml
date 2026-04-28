@@ -5,7 +5,7 @@
 			<value>boost full</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{90bb064f-caba-4312-8ea2-fd12f48324dc}</destination>
@@ -83,6 +83,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{5ee6af8b-37ea-45ca-a127-cb30f5dd2b88}">
+		<property name="overridingInputFormat">
+			<value>0</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{f4d9c479-470a-4b55-92ec-07ecdb59b628}</destination>
 		</relationship>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9df65221-bc37-4621-a025-915e7a73d68b}">
+		<property name="assetPath">
+			<value>Sonido Equivocación .wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.7418541666666663</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e7ec56dc-98ad-45ff-81e2-bd5164635a0f}</destination>
+		</relationship>
+	</object>
+</objects>
