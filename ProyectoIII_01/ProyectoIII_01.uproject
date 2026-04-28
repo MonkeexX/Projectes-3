@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "{A33CE577-4CB6-21E3-9769-CDAF719827AA}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -26,6 +26,10 @@
 		{
 			"Name": "GPULightmass",
 			"Enabled": true
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": false
 		}
 	],
 	"AdditionalPluginDirectories": [
