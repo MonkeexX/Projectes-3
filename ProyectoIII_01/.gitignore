@@ -72,3 +72,40 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# FMOD - Don't ignore these specific files
+!fmod.dll
+!fmod_haptics.dll
+!fmodL.dll
+!fmodstudio.dll
+!fmodstudioL.dll
+!resonanceaudio.dll
+!UnrealEditor-FMODStudio.dll
+!UnrealEditor-FMODStudioEditor.dll
+!UnrealEditor-FMODStudioNiagara.dll
+
+# FMOD - Don't ignore these specific files
+!fmod_vc.lib
+!fmodL_vc.lib
+!fmodstudio_vc.lib
+!fmodstudioL_vc.lib
+
+# FMOD - Don't ignore these specific files in Binaries/Plugins
+!Plugins/FMODStudio/Binaries/
+!Plugins/FMODStudio/Binaries/Win64/
+!Plugins/FMODStudio/Binaries/Win64/fmod.dll
+!Plugins/FMODStudio/Binaries/Win64/fmod_haptics.dll
+!Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+!Plugins/FMODStudio/Binaries/Win64/fmodstudio.dll
+!Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+!Plugins/FMODStudio/Binaries/Win64/resonanceaudio.dll
+!Plugins/FMODStudio/Binaries/Win64/fmod_vc.lib
+!Plugins/FMODStudio/Binaries/Win64/fmodL_vc.lib
+!Plugins/FMODStudio/Binaries/Win64/fmodstudio_vc.lib
+!Plugins/FMODStudio/Binaries/Win64/fmodstudioL_vc.lib
+!Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.dll
+!Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.dll
+!Plugins/FMODStudio/Binaries/Win64/UnrealEditor.modules
+!Plugins/FMODStudioNiagara/Binaries/
+!Plugins/FMODStudioNiagara/Binaries/Win64/
+!Plugins/FMODStudioNiagara/Binaries/Win64/UnrealEditor-FMODStudioNiagara.dll
