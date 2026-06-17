@@ -75,3 +75,10 @@ Plugins/*/Intermediate/*
 
 # Cache
 DerivedDataCache/*
+
+# UINavigator
+!Plugins/UINaviga56d41da4976eV4/Binaries/
+!Plugins/UINaviga56d41da4976eV4/Binaries/Win64/
+!Plugins/UINaviga56d41da4976eV4/Binaries/Win64/UnrealEditor-UINavigation.dll
+!Plugins/UINaviga56d41da4976eV4/Binaries/Win64/UnrealEditor-UINavigationEditor.dll
+!Plugins/UINaviga56d41da4976eV4/Binaries/Win64/UnrealEditor.modules
